@@ -140,6 +140,7 @@ def game_hash
   game_hash[:away][:players][1][:slam_dunks] = 10
   game_hash[:away][:players][2][:slam_dunks] = 5
   game_hash[:away][:players][3][:slam_dunks] = 0
+  game_hash[:away][:players][3][:slam_dunks] = 12
   
   game_hash
 end 
