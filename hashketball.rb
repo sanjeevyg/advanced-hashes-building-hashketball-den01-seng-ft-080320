@@ -92,7 +92,7 @@ def game_hash
   game_hash[:away][:players][1][:player_name] = "Bismack Biyombo"
   game_hash[:away][:players][2][:player_name] = "DeSagna Diop"
   game_hash[:away][:players][3][:player_name] = "Ben Gordon"
-  game_hash[:away][:players][3][:player_name] = "Ben Gordon"
+  game_hash[:away][:players][3][:player_name] = "Kemba Walker"
   
   game_hash[:away][:players][0][:number] = 4
   game_hash[:away][:players][1][:number] = 0
