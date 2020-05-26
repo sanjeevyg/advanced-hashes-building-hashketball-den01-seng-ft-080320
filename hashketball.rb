@@ -134,6 +134,7 @@ def game_hash
   game_hash[:away][:players][1][:blocks] = 15
   game_hash[:away][:players][2][:blocks] = 5
   game_hash[:away][:players][3][:blocks] = 1
+  game_hash[:away][:players][4][:blocks] = 5
      
   game_hash[:away][:players][0][:slam_dunks] = 2
   game_hash[:away][:players][1][:slam_dunks] = 10
