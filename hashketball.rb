@@ -122,6 +122,7 @@ def game_hash
   game_hash[:away][:players][1][:assists] = 7
   game_hash[:away][:players][2][:assists] = 12
   game_hash[:away][:players][3][:assists] = 2
+  game_hash[:away][:players][4][:assists] = 12
      
   game_hash[:away][:players][0][:steals] = 2
   game_hash[:away][:players][1][:steals] = 22
