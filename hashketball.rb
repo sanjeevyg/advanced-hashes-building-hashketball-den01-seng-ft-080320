@@ -70,6 +70,7 @@ def game_hash
      game_hash[:home][:players][1][:slam_dunks] = 7
      game_hash[:home][:players][2][:slam_dunks] = 15
      game_hash[:home][:players][3][:slam_dunks] = 5
+     game_hash[:home][:players][4][:slam_dunks] = 1
   
   
   
