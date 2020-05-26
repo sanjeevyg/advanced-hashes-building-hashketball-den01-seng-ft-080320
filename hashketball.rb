@@ -86,6 +86,7 @@ def game_hash
   game_hash[:away][:players][1] = {}
   game_hash[:away][:players][2] = {}
   game_hash[:away][:players][3] = {}
+  game_hash[:away][:players][4] = {}
   
   game_hash[:away][:players][0][:player_name] = "Jeff Adrien"
   game_hash[:away][:players][1][:player_name] = "Bismack Biyombo"
