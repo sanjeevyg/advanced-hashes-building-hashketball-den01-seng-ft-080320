@@ -98,6 +98,7 @@ def game_hash
   game_hash[:away][:players][1][:number] = 0
   game_hash[:away][:players][2][:number] = 2
   game_hash[:away][:players][3][:number] = 8
+  game_hash[:away][:players][4][:number] = 33
      
   game_hash[:away][:players][0][:shoe] = 18
   game_hash[:away][:players][1][:shoe] = 16
